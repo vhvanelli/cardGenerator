@@ -1,0 +1,21 @@
+.card-title-container{
+    background-color: #080808;
+    color: #e4e2da;
+    padding: 5px 0;
+    text-align: center;
+    text-transform: uppercase;
+}
+.p-container{
+    padding: 5px;
+    text-align: center;
+}
+.card-button{
+    display:block;
+    width: 93%;
+    height: 30px;
+    border-radius: 3px;
+    margin: 4px auto;
+    border:none;
+    background-color: #080808;
+    color: #e4e2da;
+}
